@@ -53,7 +53,7 @@ hide_streamlit_style = """
 st.markdown(hide_streamlit_style, unsafe_allow_html=True)
 st.markdown(
         """
-        ### TreeHarp
+        ### Test
         ### Dedicated to creative arts.
        
         <style>
