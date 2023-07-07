@@ -1,0 +1,2 @@
+streamlit==1.24.0
+pybase64==1.2.3
