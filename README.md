@@ -1,1 +1,1 @@
-# initial webpage setup
+initial setup
